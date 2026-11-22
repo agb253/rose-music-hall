@@ -27,11 +27,11 @@ An interactive music preview web app for upcoming concerts at **Rose Music Hall*
 
 ## 🚀 Running & Live Links
 
-- **Public Live URL (accessible to anyone)**:
-  👉 **[https://rim-presently-gst-generate.trycloudflare.com](https://rim-presently-gst-generate.trycloudflare.com)**
+- **Permanent Public Live URL (24/7)**:
+  👉 **[https://agb253.github.io/rose-music-hall/](https://agb253.github.io/rose-music-hall/)**
 
-- **Local Development URL**:
-  [http://localhost:3300](http://localhost:3300)
+- **GitHub Repository**:
+  [https://github.com/agb253/rose-music-hall](https://github.com/agb253/rose-music-hall)
 
 To start it at any time:
 ```bash
